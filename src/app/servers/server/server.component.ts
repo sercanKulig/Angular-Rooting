@@ -24,5 +24,4 @@ export class ServerComponent implements OnInit {
         }
       );
   }
-
 }
